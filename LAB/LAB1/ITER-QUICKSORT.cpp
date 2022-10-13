@@ -1,4 +1,4 @@
-// Har Har Mahadev
+// Jai shiv shambhu !!
  
 #include<bits/stdc++.h>
 using namespace std;
